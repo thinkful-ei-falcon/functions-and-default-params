@@ -15,9 +15,5 @@ lyricArr.splice(5,1,"platinum,");
 console.log(lyricArr);
 
 //Join
-
 let newLyricStr = lyricArr.join(" ");
 console.log(newLyricStr)
-
-
-//Substring
